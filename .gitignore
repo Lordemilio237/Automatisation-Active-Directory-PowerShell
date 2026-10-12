@@ -1,0 +1,9 @@
+# Fichiers sensibles
+CSV/Utilisateurs.csv
+Logs/
+*.log
+
+# Secrets et cles
+.env
+*.secret
+*.key
